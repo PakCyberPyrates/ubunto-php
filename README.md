@@ -10,9 +10,9 @@ Install PHP (5.6, 7.0, 7.1) on Ubuntu Using PPA
 
 1. First start by adding Ondřej Surý PPA to install different versions of PHP – PHP 5.6, PHP 7.0 and PHP 7.1 on Ubuntu system.
 
-$ sudo apt install python-software-properties
+sudo apt install python-software-properties
 
-$ sudo add-apt-repository ppa:ondrej/php
+sudo add-apt-repository ppa:ondrej/php
 
 Add PPA in Ubuntu
 
@@ -20,7 +20,7 @@ Add PPA in Ubuntu
 
 2. Next, update the system as follows.
 
-$ sudo apt-get update
+sudo apt-get update
 
 3. Now install different supported versions of PHP as follows.
 For Apache Web Server
